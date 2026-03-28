@@ -26,5 +26,5 @@ The website includes:
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/OmarAlshehri0/202177130-OmarAlshehri-assignment2.git
+   git clone https://github.com/OmarAlshehri0/202177130-OmarAlshehri-assignment2.git 
 
