@@ -8,7 +8,7 @@ I used AI to help me understand the assignment requirements and to get ideas for
 It also helped me fix some JavaScript errors and improve the code.
 
 ## Benefits
-- Helped me understand what features to add
+- Helped me understand what features to add 
 - Helped me fix small mistakes
 - Helped me with API
 - Made it easier to complete the assignment

@@ -8,7 +8,7 @@ Contains the main sections:
 - About section
 - Projects section
 - News section
-- Contact form
+- Contact form 
 
 ### css/styles.css
 Used for:
